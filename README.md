@@ -9,6 +9,7 @@ Fun try-outs
 * Brainrot
 * Hieroglyphics
 * Secret language
+* Recursive programming language learning course
 
 Improvements
 * Hanja course (Korean)
