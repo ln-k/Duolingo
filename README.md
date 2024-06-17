@@ -7,6 +7,7 @@ Course ideas
 
 Fun try-outs
 * Brainrot
+* Rizz
 * Hieroglyphics
 * Secret language
 * Recursive programming language learning course
