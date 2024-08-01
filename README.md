@@ -34,7 +34,7 @@ Fun try-outs
 
 For lesser known languages...
 * Speaking exercises
-* Stories for lesser known languages
+* Stories
 * Radio
 * SUPER MAX available (Roleplay,...)
 * Proficiency level displayed
